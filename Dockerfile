@@ -2,5 +2,5 @@
 FROM tomcat:8 
 
 # Maintainer 
-MAINTAINER "emilekenmoe@gmail.com" 
-COPY ./holliday.war /usr/local/tomcat/webapps
+MAINTAINER Emile Ken 
+COPY holliday1.war /usr/local/tomcat/webapps
